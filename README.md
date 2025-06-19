@@ -9,7 +9,7 @@ A tutorial on how to set up a WSL-like Linux virtual machine on Apple silicon ma
 
 Have you recently switched to macOS and found yourself missing the convenience of `wsl`? On Windows, spinning up a full Linux environment was as easy as typing a command in the terminal. Now, with your new Apple Silicon Mac, not only is `wsl` unavailable, but you're also dealing with an ARM-based architecture—making it even harder to run tools like `valgrind`. It can feel like a developer's nightmare.
 
-Thanks to modern day virtualization technlogies, however, setting up a Linux virtual machine on any operating system (macOS, Windows) is really easy if you know what you're doing. However, to my despair, tools like Parallels desktop seem to be the only virtual machine tools ever talked about when it comes to macOS. I've heard stories of many of my friends even paying for Parallels just because they think that's the only option they have.
+Thanks to modern day virtualization technologies, however, setting up a Linux virtual machine on any operating system (macOS, Windows) is really easy if you know what you're doing. However, to my despair, tools like Parallels desktop seem to be the only virtual machine tools ever talked about when it comes to macOS. I've heard stories of many of my friends even paying for Parallels just because they think that's the only option they have.
 
 However, of course this isn't true. Digging a little deeper, you'd find out about [UTM](https://mac.getutm.app/).
 
